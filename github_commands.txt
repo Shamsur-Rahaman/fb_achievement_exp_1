@@ -1,0 +1,10 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Shamsur-Rahaman/fb_achievement_demo_1.git
+git push -u origin main
+
+git add .
+git commit -m ""
+git push
